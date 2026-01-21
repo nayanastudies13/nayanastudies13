@@ -16,7 +16,7 @@ with strong interest in **Data Analytics, Business Analytics, and Data Science**
 
 ## 🌐 Socials  
 🔗 **LinkedIn:**  
-👉 https://www.linkedin.com/in/nayana-b-s  
+👉 www.linkedin.com/in/nayana-bs
 
 🔗 **GitHub:**  
 👉 https://github.com/nayanastudies13  
