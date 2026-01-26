@@ -39,7 +39,7 @@ with strong interest in **Data Analytics, Business Analytics, and Data Science**
 - TensorFlow, Keras  
 
 ### 🌐 Web & Programming  
-- C, Java, JavaScript  
+- C, Java, JavaScript ,Python. 
 - HTML, CSS (Basics)  
 - React (Beginner)  
 
