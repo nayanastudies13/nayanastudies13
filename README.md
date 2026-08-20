@@ -1,165 +1,88 @@
-<h1 align="center">Hi 👋, I'm Nayana B S</h1>
+# Nayana B S
 
-<h3 align="center">AI & Machine Learning Engineering Student | Aspiring Software Engineer | AI/ML Enthusiast</h3>
+Artificial Intelligence and Machine Learning Engineering Student | Aspiring Software Engineer
 
----
+Davanagere, Karnataka, India
 
-## 👩‍💻 About Me
-
-I am a passionate **Artificial Intelligence & Machine Learning Engineering** student with a strong interest in **Software Development, Data Structures & Algorithms, Artificial Intelligence, and Full-Stack Web Development**.
-
-I enjoy building real-world applications using **Java, Python, SQL, Machine Learning, and Web Technologies** while continuously improving my problem-solving and development skills.
-
-I am currently focused on strengthening my **Software Development** and **Full-Stack Development** skills to become an industry-ready engineer.
+Email: nayanabs.studies13@gmail.com  
+LinkedIn: https://www.linkedin.com/in/nayana-bs  
+GitHub: https://github.com/nayanastudies13
 
 ---
 
-## 🎯 Current Focus
+## About Me
 
-- 🌱 Learning **Full Stack Web Development**
-- 💻 Practicing **Java + Data Structures & Algorithms**
-- 🤖 Building AI & Machine Learning Projects
-- 🚀 Preparing for Software Engineering Placements
-- 📚 Improving Computer Science Fundamentals
+I am an Artificial Intelligence and Machine Learning Engineering student with an interest in Software Development and AI/ML.
 
----
+I enjoy building practical applications using Java, Python, SQL, Machine Learning, REST APIs, and backend technologies.
 
-## 🌐 Connect With Me
-
-<p align="left">
-<a href="https://www.linkedin.com/in/nayana-bs" target="blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/nayanastudies13" target="blank">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</p>
+Currently, I am strengthening my skills in Java, Data Structures and Algorithms, Spring Boot, AI/ML, backend development, and software engineering fundamentals.
 
 ---
 
-# 💻 Tech Stack
+## Technical Skills
 
 ### Programming Languages
+Java, Python, SQL
 
-- Java
-- Python
-- JavaScript
-- SQL
+### AI and Machine Learning
+Machine Learning, Anomaly Detection, Isolation Forest, Agentic AI, Explainable AI, Predictive Modeling
 
-### Artificial Intelligence & Machine Learning
+### Backend and Web
+Spring Boot, FastAPI, REST APIs, React.js
 
-- Machine Learning
-- Natural Language Processing (NLP)
-- XGBoost
-- Random Forest
-- SHAP
-- LIME
-- TensorFlow (Basics)
-- Keras (Basics)
-
-### Web Development
-
-- HTML5
-- CSS3
-- Bootstrap
-- React.js (Learning)
-- FastAPI
-- Flask
-- Node.js (Learning)
-- Express.js (Learning)
-- REST APIs
-
-### Databases
-
-- PostgreSQL
-- MongoDB
-- MySQL
+### Database
+MySQL
 
 ### Developer Tools
+Git, GitHub, Docker, Docker Compose, Postman, MySQL Workbench, VS Code
 
-- Git
-- GitHub
-- VS Code
-- Postman
-
-### Core Computer Science
-
-- Data Structures & Algorithms
-- Object-Oriented Programming
-- Computer Networks
-- DBMS
-- Operating Systems (Learning)
+### Core Concepts
+Data Structures and Algorithms, Object-Oriented Programming, Computer Networks
 
 ---
 
-# 🚀 Projects
+## Projects
 
-## 🔹 Risk Assessment & Automated Audit Reporting System *(Ongoing)*
+### AI-Based Risk Assessment and Automated Audit Reporting System
 
-- Developing an AI-driven financial risk assessment system using **Isolation Forest, Local Outlier Factor (LOF), and One-Class SVM**.
-- Analyzing **9000+ financial transaction records** for anomaly detection.
-- Implementing **Explainable AI (SHAP & LIME)** for transparent financial risk analysis.
-- Building **FastAPI REST APIs**.
-- Developing a **React.js dashboard** for automated audit reporting and financial risk monitoring.
+An AI-driven financial risk assessment and audit reporting system for retail trading companies.
 
----
+- Analyzing 9,000+ financial transaction records using Isolation Forest for anomaly detection and fraud risk identification.
+- Combining machine learning predictions with 18 business validation rules for risk assessment.
+- Generating risk scores, risk levels, audit reasons, and recommendations using rule-based explainability.
+- Building REST APIs using FastAPI for transaction analysis and audit processing.
+- Developing a React.js dashboard for single-transaction analysis and bulk Excel-based processing.
+- Implementing an Agentic AI-powered workflow for generating financial audit summaries.
 
-## 🔹 Smart Employee Management System
+### UPI Anomaly Detection Engine
 
-- Developed a **Java-based Employee Management System** with CRUD operations.
-- Integrated **MySQL** using JDBC for secure data storage and retrieval.
-- Implemented **authentication** and **role-based access control**.
-- Designed a user-friendly interface for efficient employee management.
+A rule-based UPI transaction anomaly detection system developed using Java and Spring Boot.
 
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=nayanastudies13&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nayanastudies13&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayanastudies13&layout=compact&theme=tokyonight"/>
-
-</p>
+- Detects unusual transaction frequency and amount patterns in real time.
+- Uses a 60-second transaction window for velocity and volume detection.
+- Uses sender-specific moving averages to identify suspicious activity.
+- Implements asynchronous processing using a queue and worker threads.
+- Provides REST APIs for transaction ingestion, anomaly alerts, and system monitoring.
+- Uses Docker and Docker Compose for containerized deployment.
 
 ---
 
-# 🏆 Achievements
-
-- 🎯 Participant - Smart India Hackathon (SIH)
-- 👩‍💻 Developed multiple academic and AI/ML projects
-- 🤝 Strong teamwork, communication, and presentation skills
-- 📈 Continuously improving problem-solving and development skills
-
----
-
-# 📚 Currently Learning
+## Currently Learning
 
 - Java
-- Data Structures & Algorithms
-- Full Stack Web Development
-- System Design Basics
-- React.js
-- Node.js
-- Express.js
-- PostgreSQL
-- AI Agents
+- Data Structures and Algorithms
+- Spring Boot
+- REST API Development
+- Docker and Docker Compose
 - SQL
+- AI/ML
+- System Design Fundamentals
 
 ---
 
-## 💡 Quote
+## Education
 
-> *"Consistency beats talent when talent doesn't stay consistent."*
-
----
-
-<h3 align="center">⭐ Thank you for visiting my profile! ⭐</h3>
-
-<p align="center">
-Let's connect and build something amazing together 🚀
-</p>
+Bachelor of Engineering in Artificial Intelligence and Machine Learning  
+Bapuji Institute of Engineering and Technology, Davanagere  
+2023–2027 | CGPA: 8.9/10
