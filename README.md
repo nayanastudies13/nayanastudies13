@@ -1,88 +1,88 @@
 # Nayana B S
 
-Artificial Intelligence and Machine Learning Engineering Student | Aspiring Software Engineer
+AI & Machine Learning Engineering Student | Aspiring Software Engineer
 
-Davanagere, Karnataka, India
+I am an AI & Machine Learning Engineering student interested in software development, backend systems, and AI/ML.
 
-Email: nayanabs.studies13@gmail.com  
-LinkedIn: https://www.linkedin.com/in/nayana-bs  
-GitHub: https://github.com/nayanastudies13
+I enjoy building practical projects using Java, Python, SQL, Spring Boot, FastAPI, and Machine Learning. I am currently focusing on improving my problem-solving skills, backend development, and software engineering fundamentals.
 
 ---
 
-## About Me
+## What I Work With
 
-I am an Artificial Intelligence and Machine Learning Engineering student with an interest in Software Development and AI/ML.
+**Languages:**  
+Java · Python · SQL
 
-I enjoy building practical applications using Java, Python, SQL, Machine Learning, REST APIs, and backend technologies.
+**AI & Machine Learning:**  
+Machine Learning · Anomaly Detection · Isolation Forest · LOF · One-Class SVM · Agentic AI · Explainable AI
 
-Currently, I am strengthening my skills in Java, Data Structures and Algorithms, Spring Boot, AI/ML, backend development, and software engineering fundamentals.
+**Backend:**  
+Spring Boot · FastAPI · REST APIs
 
----
-
-## Technical Skills
-
-### Programming Languages
-Java, Python, SQL
-
-### AI and Machine Learning
-Machine Learning, Anomaly Detection, Isolation Forest, Agentic AI, Explainable AI, Predictive Modeling
-
-### Backend and Web
-Spring Boot, FastAPI, REST APIs, React.js
-
-### Database
+**Database:**  
 MySQL
 
-### Developer Tools
-Git, GitHub, Docker, Docker Compose, Postman, MySQL Workbench, VS Code
-
-### Core Concepts
-Data Structures and Algorithms, Object-Oriented Programming, Computer Networks
+**Tools:**  
+Git · GitHub · Docker · Docker Compose · Postman · VS Code
 
 ---
 
-## Projects
+## Featured Projects
 
-### AI-Based Risk Assessment and Automated Audit Reporting System
+### AI-Based Risk Assessment & Automated Audit Reporting System
 
-An AI-driven financial risk assessment and audit reporting system for retail trading companies.
+An ongoing AI/ML project for identifying financial and compliance risks in retail transactions.
 
-- Analyzing 9,000+ financial transaction records using Isolation Forest for anomaly detection and fraud risk identification.
-- Combining machine learning predictions with 18 business validation rules for risk assessment.
-- Generating risk scores, risk levels, audit reasons, and recommendations using rule-based explainability.
-- Building REST APIs using FastAPI for transaction analysis and audit processing.
-- Developing a React.js dashboard for single-transaction analysis and bulk Excel-based processing.
-- Implementing an Agentic AI-powered workflow for generating financial audit summaries.
+- Working with 9,000+ financial transaction records.
+- Using Isolation Forest, LOF, and One-Class SVM for anomaly detection.
+- Combining ML predictions with 17 business rules for risk assessment.
+- Developing an Agentic AI-oriented workflow for audit insights and PDF reports.
+- Building backend APIs using FastAPI.
+
+**Focus:** Python · Machine Learning · FastAPI · AI-based Risk Assessment
+
+---
 
 ### UPI Anomaly Detection Engine
 
-A rule-based UPI transaction anomaly detection system developed using Java and Spring Boot.
+A Java-based transaction monitoring system designed to identify unusual UPI transaction activity.
 
-- Detects unusual transaction frequency and amount patterns in real time.
-- Uses a 60-second transaction window for velocity and volume detection.
-- Uses sender-specific moving averages to identify suspicious activity.
-- Implements asynchronous processing using a queue and worker threads.
-- Provides REST APIs for transaction ingestion, anomaly alerts, and system monitoring.
-- Uses Docker and Docker Compose for containerized deployment.
+- Built using Java, Spring Boot, and REST APIs.
+- Implemented velocity and volume-based anomaly rules.
+- Used a 60-second transaction window and sender-specific analysis.
+- Implemented queue-based processing using worker threads.
+- Containerized the application using Docker and Docker Compose.
+
+**Focus:** Java · Spring Boot · REST APIs · Asynchronous Processing · Docker
+
+---
+
+## Experience
+
+### Infosys Springboard Virtual Internship 7.0
+
+Currently participating in a team-based Smart Governance Management Platform project.
+
+Working with Java, SQL, Spring Boot, and REST APIs while gaining practical experience in backend development, database integration, and application workflows.
 
 ---
 
 ## Currently Learning
 
-- Java
-- Data Structures and Algorithms
-- Spring Boot
-- REST API Development
-- Docker and Docker Compose
-- SQL
-- AI/ML
-- System Design Fundamentals
+Java · Data Structures & Algorithms · Spring Boot · REST APIs · Docker · SQL · AI/ML · Software Engineering
 
 ---
 
 ## Education
 
-Bachelor of Engineering in Artificial Intelligence and Machine Learning  
+**B.E. in Artificial Intelligence and Machine Learning**  
 Bapuji Institute of Engineering and Technology, Davanagere  
-2023–2027 | CGPA: 8.9/10
+2023 – 2027 · CGPA: 8.9/10
+
+---
+
+## Connect
+
+**Email:** nayanabs.studies13@gmail.com
+
+**LinkedIn:** [linkedin.com/in/nayana-bs](https://www.linkedin.com/in/nayana-bs)
