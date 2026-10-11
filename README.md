@@ -4,56 +4,57 @@ AI & Machine Learning Engineering Student | Aspiring Software Engineer
 
 I am an AI & Machine Learning Engineering student interested in software development, backend systems, and AI/ML.
 
-I enjoy building practical projects using Java, Python, SQL, Spring Boot, FastAPI, and Machine Learning. I am currently focusing on improving my problem-solving skills, backend development, and software engineering fundamentals.
+I enjoy building practical projects using Java, Python, SQL, Spring Boot, and Machine Learning. I am currently focusing on improving my problem-solving skills, backend development, and software engineering fundamentals.
 
 ---
 
 ## What I Work With
 
 **Languages:**  
-Java · Python · SQL
+Java · Python · SQL · JavaScript
 
 **AI & Machine Learning:**  
-Machine Learning · Anomaly Detection · Isolation Forest · LOF · One-Class SVM · Agentic AI · Explainable AI
+Machine Learning · Anomaly Detection · Isolation Forest
+
+**Web Development:**  
+HTML · CSS · React.js · REST APIs
 
 **Backend:**  
-Spring Boot · FastAPI · REST APIs
+Spring Boot · JDBC
 
 **Database:**  
-MySQL
+MySQL · MongoDB
 
-**Tools:**  
-Git · GitHub · Docker · Docker Compose · Postman · VS Code
+**Tools & Platforms:**  
+Git · GitHub · Postman · VS Code · Microsoft Azure
 
 ---
 
 ## Featured Projects
 
-### AI-Based Risk Assessment & Automated Audit Reporting System
+### Risk Assessment & Automated Audit Reporting System for Retail Trading Companies Using AI & ML
 
-An ongoing AI/ML project for identifying financial and compliance risks in retail transactions.
+An AI/ML project focused on identifying unusual patterns and potential risks in financial transactions.
 
-- Working with 9,000+ financial transaction records.
-- Using Isolation Forest, LOF, and One-Class SVM for anomaly detection.
-- Combining ML predictions with 17 business rules for risk assessment.
-- Developing an Agentic AI-oriented workflow for audit insights and PDF reports.
-- Building backend APIs using FastAPI.
+- Developed a Machine Learning-based system using Python and Isolation Forest to identify unusual transaction patterns.
+- Combined machine learning predictions with business rules to generate risk levels, audit reasons, and recommendations.
+- Built a reporting workflow to generate structured audit summaries from risk assessment results.
+- Used MongoDB for data storage and Microsoft Azure for deployment.
 
-**Focus:** Python · Machine Learning · FastAPI · AI-based Risk Assessment
+**Focus:** Python · Machine Learning · Isolation Forest · MongoDB · Microsoft Azure
 
 ---
 
 ### UPI Anomaly Detection Engine
 
-A Java-based transaction monitoring system designed to identify unusual UPI transaction activity.
+A Java-based transaction monitoring application designed to identify unusual UPI transaction activity.
 
-- Built using Java, Spring Boot, and REST APIs.
-- Implemented velocity and volume-based anomaly rules.
-- Used a 60-second transaction window and sender-specific analysis.
-- Implemented queue-based processing using worker threads.
-- Containerized the application using Docker and Docker Compose.
+- Developed using Java, Spring Boot, REST APIs, and a React.js frontend.
+- Implemented velocity- and mean-based rules to identify unusual transaction patterns and generate alerts.
+- Used `BlockingQueue` and worker threads to process transactions concurrently.
+- Stored transaction alerts in MySQL using JDBC.
 
-**Focus:** Java · Spring Boot · REST APIs · Asynchronous Processing · Docker
+**Focus:** Java · Spring Boot · React.js · REST APIs · MySQL · JDBC
 
 ---
 
@@ -61,15 +62,17 @@ A Java-based transaction monitoring system designed to identify unusual UPI tran
 
 ### Infosys Springboard Virtual Internship 7.0
 
-Currently participating in a team-based Smart Governance Management Platform project.
+Participated in a team-based Smart Governance Management Platform project.
 
-Working with Java, SQL, Spring Boot, and REST APIs while gaining practical experience in backend development, database integration, and application workflows.
+- Worked with Java, SQL, Spring Boot, and REST APIs.
+- Contributed to MySQL database operations involving user and complaint data.
+- Gained practical experience in backend development, database integration, and team-based application development.
 
 ---
 
 ## Currently Learning
 
-Java · Data Structures & Algorithms · Spring Boot · REST APIs · Docker · SQL · AI/ML · Software Engineering
+Java · Data Structures & Algorithms · Spring Boot · REST APIs · SQL · Machine Learning · Software Engineering
 
 ---
 
@@ -81,8 +84,22 @@ Bapuji Institute of Engineering and Technology, Davanagere
 
 ---
 
+## Certification
+
+**Core Java and Data Structures** – SkillVex · May 2026
+
+---
+
+## Languages
+
+Kannada · English · Hindi
+
+---
+
 ## Connect
 
 **Email:** nayanabs.studies13@gmail.com
 
 **LinkedIn:** [linkedin.com/in/nayana-bs](https://www.linkedin.com/in/nayana-bs)
+
+**GitHub:** [github.com/nayanastudies13](https://github.com/nayanastudies13)
